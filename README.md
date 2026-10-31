@@ -71,7 +71,17 @@ This environment is intended for cybersecurity education and authorised testing.
 
 ## 8. Evidence and Screenshots
 
-Screenshots of the completed configuration, Kali Linux network settings, connectivity test, and virtual machine snapshot will be added here as supporting evidence.
+### 1. VirtualBox NAT Network Configuration
+![VirtualBox NAT Network](1-screenshot-network-settings-1.png)
+
+### 2. Kali Linux Desktop
+![Kali Linux Desktop](2-screenshot-kali-linux.png)
+
+### 3. Kali Network and Internet Connectivity Test
+![Kali Network and Internet Test](3-kali-network-and-internet-connectivity-test.png)
+
+### 4. Kali Static IP Configuration
+![Kali Static IP Configuration](4-kali-static-ip-configuration.png)
 
 ## 9. Project Resources
 
@@ -82,3 +92,4 @@ Screenshots of the completed configuration, Kali Linux network settings, connect
 ---
 
 **Project status:** Week 1 lab setup completed. Documentation and screenshot evidence are being organised.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37a25241-311e-4fac-b910-0a5a290dfbe2" />
