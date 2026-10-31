@@ -91,5 +91,4 @@ This environment is intended for cybersecurity education and authorised testing.
 
 ---
 
-**Project status:** Week 1 lab setup completed. Documentation and screenshot evidence are being organised.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37a25241-311e-4fac-b910-0a5a290dfbe2" />
+**Project status:** Week 1 lab setup completed. 
